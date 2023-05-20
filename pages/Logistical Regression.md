@@ -1,0 +1,1 @@
+- Predictions are discrete (only specific categories)

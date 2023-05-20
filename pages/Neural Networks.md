@@ -1,0 +1,3 @@
+- [[Gradient Descent]]
+- [[Linear Regression]]
+- [[Logistical Regression]]
